@@ -1,3 +1,4 @@
+#!/usr/bin/env python2
 '''
 1. Use the split method to divide the following IPv6 address into groups of 4
 hex digits (i.e. split on the ":")
