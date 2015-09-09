@@ -12,5 +12,4 @@ ipv6_address_section = ipv6_address.split(":")
 print '\n' +'IPv6 sections below'+ '\n'
 print ipv6_address_section,'\n'  
 
-print "joined" +'\n\n'+  ":".join(ipv6_address_section)
-
+print "Joined" +'\n\n'+  ":".join(ipv6_address_section) 
